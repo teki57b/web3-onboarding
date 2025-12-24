@@ -628,7 +628,7 @@ Now that we have our smart contract code ready, it's time to test it and deploy 
 Before we begin, ensure you have the following:
 
 - A crypto wallet installed on your web browser ([MetaMask](https://metamask.io/), [Phantom](https://phantom.app/), [Rabby](https://rabby.io/), etc.)
-- **Base Sepolia** set up on MetaMask ([add Base Sepolia to your MetaMask here](https://docs.base.org/docs/using-base/#metamask))
+- **Base Sepolia** set up on MetaMask ([add Base Sepolia to your MetaMask here](https://docs.base.org/base-chain/quickstart/connecting-to-base#other-wallets))
 - **Testnet Ether** on the Base Sepolia network ([get Base Sepolia testnet Ether here](https://faucets.chain.link/base-sepolia))
 
 > *update: 20250723*
